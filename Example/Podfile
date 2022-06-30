@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'QuanTestPod_Example' do
+  pod 'QuanTestPod', :path => '../'
+
+  target 'QuanTestPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
