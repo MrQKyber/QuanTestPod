@@ -1,0 +1,16 @@
+PODS:
+  - QuanTestPod (0.1.0)
+
+DEPENDENCIES:
+  - QuanTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  QuanTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QuanTestPod: 395160792346719f0e8c63d1916ea79cb957f7a2
+
+PODFILE CHECKSUM: 0e7946f5e013c86db6b7bf3f25e47712db60f647
+
+COCOAPODS: 1.11.3

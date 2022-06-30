@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import QuanTestPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+      let test = Test()
+      test.sayHello()
     }
 
     override func didReceiveMemoryWarning() {

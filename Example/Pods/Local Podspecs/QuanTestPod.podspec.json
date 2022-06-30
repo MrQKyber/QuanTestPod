@@ -1,0 +1,22 @@
+{
+  "name": "QuanTestPod",
+  "version": "0.1.0",
+  "summary": "A short description of QuanTestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrQKyber/QuanTestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrQKyber": "quan.ta@kyber.network"
+  },
+  "source": {
+    "git": "https://github.com/MrQKyber/QuanTestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QuanTestPod/Classes/**/*"
+}
